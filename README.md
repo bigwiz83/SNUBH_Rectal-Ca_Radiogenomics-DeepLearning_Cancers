@@ -1,4 +1,4 @@
-# SNUBH_Rectal-Ca_Radiogenomics-DeepLearning_Cancers
+# SNUBH_Rectal_Ca_Radiogenomics_DeepLearning-Cancers
 
 This repository contains the matlab code used in 'Radiogenomic and deep learning network approaches to predict KRAS mutation and microsatellite instability status from radiotherapy plan' article.
 
